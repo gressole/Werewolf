@@ -79,25 +79,25 @@
 		<value>Не помню я, чтобы ты тут работал.</value>
 	</string>
 	<string key="AnswerNonValid" deprecated="true">
-		<value>The one you picked was gone.</value>
+		<value>Что-то как-то всё не так.</value>
 	</string>
 	<string key="WolfVotedKill">
-		<value>{0} wanted to planted {1} a surprise.</value>
+		<value>{0} решил юзнуть багу во вред {1}.</value>
 	</string>
 	<string key="PlayerVotedLynch">
-		<value>{0} suspected {1} is the shit Senior coder here.</value>
+		<value>{0} увидел код {1} и подозревает его в том, что он Старший Говнокодер.</value>
 	</string>
 	<string key="IdleKill">
-		<value>{0} didn't give his opinions twice in a row. I guess he's no different from a dead person.\n{1}</value>
+		<value>{0} не выкатил ещё ни один коммит. Уволить.\n{1}</value>
 	</string>
 	<string key="TraitorTurnWolf">
-		<value>As a Popcorn Lover, you really hate the boredom here as all the Seniors died. So you ask youself: What not become one if you do want to watch the world burns? You are a Senior Asshole now!</value>
+		<value>Поедая очередную порцию попкорна, ты обнаружил, что весь говнокод из репозитория вычищен, а говнокодеров уволили. От давящей тебя скуки ты спросил: а что, если я стану одним из них? Ты у нас теперь Старший Говнокодер!</value>
 	</string>
 	<string key="ChoiceAccepted">
-		<value>Gotcha!</value>
+		<value>Опа!</value>
 	</string>
 	<string key="BeholderSeer">
-		<value>\n{0} is the real Department Manager, who could peek anyone's profile at lunch.</value>
+		<value>\n{0} - начальник департамента, он может проверять профили.</value>
 	</string>
 	<string key="ApprenticeNowSeer">
 		<value>Finally, {0} is gone, and you are no longer a Department Trainee, but a Department Manager. You may access other's appraisal reports at lunch.</value>
