@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <strings>
-  <language name="Русский литературный" base="Русский" variant="Литературный" />
+  <language name="Русский литературный" base="Русский" variant="Литературный" code="ru"/>
   <string key="NotInGame" deprecated="true">
     <value>Ты не находишься ни в одной игре на данный момент...</value>
   </string>
