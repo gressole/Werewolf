@@ -1541,10 +1541,10 @@
   </string>
 
   <string key="AllowNSFW">
-    <value>Разрешить NSFW(18+, не рекомендуются к просмотру на работе) наборы анимаций</value>
+    <value>Разрешить NSFW наборы анимаций</value>
   </string>
   <string key="AllowNSFWQ">
-    <value>Разрешить игрокам запускать свои NSFW набор анимаций?\nТекущее: {0}</value>
+    <value>Разрешить игрокам запускать свои NSFW(18+, не рекомендуются к просмотру на работе) наборы анимаций?\nТекущее: {0}</value>
   </string>
   <string key="AllowNSFWA">
     <value>{0} NSFW анимации</value>
