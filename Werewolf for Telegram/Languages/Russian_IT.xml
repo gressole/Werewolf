@@ -17,10 +17,10 @@
 		<value>Ты сейчас не в игре.</value>
 	</string>
 	<string key="PlayerStartedGame" isgif="true">
-		<value>{0} начал игру с IT-настройками!.\nЗаходи и узнай, кого же уволят сегодня :D</value>
+		<value>{0} начал игру с IT-модом!.\nЗаходи и узнай, кого же уволят сегодня :D</value>
 	</string>
 	<string key="PlayerStartedChaosGame" isgif="true">
-		<value>{0} начал игру в режиме ХАОСА с IT-настройками!.\nЗаходи и узнай, кого же уволят сегодня :D</value>
+		<value>{0} начал игру в режиме ХАОСА с IT-модом!.\nЗаходи и узнай, кого же уволят сегодня :D</value>
 	</string>
 	<string key="NoJoinGameRunning" deprecated="true">
 		<value>О, у нас опоздавшие... Иди с дома поработай, а к следующему проекту позовём, только /nextgame не забудь.</value>
@@ -57,7 +57,11 @@
 	</string>
 	<!-- Я ибал, что это такое и как переводится -->
   <string key="DeadFlee">
+<<<<<<< Updated upstream
 		<value>Поздно увольняться, тебя уже выкинули. Отдыхай.</value>
+=======
+		<value>Поздно увольняться, когда тебя уже выкинули. Отдыхай.</value>
+>>>>>>> Stashed changes
 	</string>
 	<string key="Flee">
 		<value>У {0} голова раскалывается, переработался. Ладно, иди, если станет лучше - из дома поработаешь.</value>
@@ -86,6 +90,7 @@
 	</string>
 	<string key="PlayerVotedLynch">
 		<value>{0} увидел код {1} и подозревает его в том, что он Старший Говнокодер.</value>
+		<value>У {0} есть веские основания полагать, что {1} - источник всех костылей в проекте.</value>
 	</string>
 	<string key="IdleKill">
 		<value>{0} не выкатил ещё ни один коммит. Уволить.\n{1}</value>
@@ -100,67 +105,68 @@
 		<value>\n{0} - начальник департамента, он может проверять профили.</value>
 	</string>
 	<string key="ApprenticeNowSeer">
-		<value>Finally, {0} is gone, and you are no longer a Department Trainee, but a Department Manager. You may access other's appraisal reports at lunch.</value>
+		<value>Наконец-то, {0} уволили, и теперь ты, как его заместитель, имеешь полный доступ к профилям. Используй его во благо.</value>
 	</string>
 	<string key="BeholderNewSeer">
-		<value>Finally, {0} has graduated from the trainee program, filling {1}'s place as the new Department Manager.</value>
+		<value>Ура, {0} полностью прошёл курс повышения квалификации и занял  место {1}! Теперь он - Начальник Департамента.</value>
 	</string>
 	<string key="SeerSees">
-		<value>Through peeking at the appraisal report, you know {0} is {1}.</value>
+		<value>Подглянув в профиль {0}, ты узнаешь страшную правду. {0} - это {1}.</value>
 	</string>
 	<string key="AskLynch">
-		<value>Who do you think is the Senior Asshole here?</value>
+		<value>Кто же у нас говнокодит лучше всех?</value>
+		<value>И увольнением награждается...</value>
 	</string>
 	<string key="AskDetect">
-		<value>Whose work you would like to check?</value>
+		<value>За чей рабочий стол ты хочешь заглянуть?</value>
 	</string>
 	<string key="AskShoot">
-		<value>You want the board to fire who? You can name {0} more.</value>
+		<value>Против кого ты используешь доверие босса? Босс заподозрит неладное через {0} ходов.</value>
 	</string>
 	<string key="AskVisit">
 		<value>Who do you want to sneak?</value>
 	</string>
 	<string key="AskSee">
-		<value>Whose appraisal report has kept you interested?</value>
+		<value>Чей же профиль ты хочешь подсмотреть?</value>
 	</string>
 	<string key="AskGuard">
-		<value>Whose computer need your protection?</value>
+		<value>У кого ты откроешь шелл сегодня?</value>
 	</string>
 	<string key="AskEat">
-		<value>Who would you like to plant? Name it and kick him out of the office!</value>
+		<value>Уязвимость снова открыта. Кому же сегодня достанется увольнение?</value>
 	</string>
 	<string key="AskHunt">
-		<value>Who do you think is using JAVA in their works?</value>
+		<value>Кто же, по твоему мнению, пишет на JAVA?</value>
 	</string>
 	<string key="AskRoleModel">
-		<value>You want who to be your dedicated tutor, leading your through the internship?</value>
+		<value>Кого же ты выберешь ментором на свою стажировку?</value>
 	</string>
 	<string key="AskConvert">
-		<value>JAVA IS THE BEST! You want to share the best thing with who?</value>
+		<value>JAVA - ЛУЧШИЙ ЯЗЫК ПРОГРАММИРОВАНИЯ! С кем ты хочешь поделиться этой информацией?</value>
 	</string>
 	<string key="DiscussWith"><!--Leave the leading spaces here please-->
-		<value>Your friends {0} would like to discuss with you!</value>
+		<value>Твои друзья, {0} хотять обсудить с тобой свой выбор!</value>
 	</string>
 	<string key="And"> <!--this is paired with "DiscussWith".  again, leave the spaces!-->
-		<value> and </value>
+		<value> и </value>
 	</string>
 	<string key="RoleInfoCursed">
-		<value>You are the Bootlicker 😾 and you always monitor and protect your computer from any threats. Even at lunch, you will check the status of your computer with youe mobile. When anyone is doing anything to your computer, you will notice at the very second and take your action! If the Seniors really is planting things to you computer, you will lick the boot of the Seniors hard, until they allow you to join their plan.</value>
+		<value>Ты - Подхалим 😾 и всегда проверяешь свой ПК на предмет вирусов и прочих вредоносных вещей. Даже в нерабочее время ты проверяешь статус компьютера через мобильник. Когда кто-то без твоего ведома изменяет его данные, ты получаешь быстрое уведомление и сразу можешь приступать к нужным действиям. Если Говнокодер решит заложить тебя, ты так сильно подлижешься к нему, что он будет работать вместе с тобой.</value>
 	</string>
 	<string key="RoleInfoDetective">
-		<value>You are the Performance Evaluator 🕵. You can connect to others' computer and check their work in the afternoon, and you will know who is good and who is bad. Warning: The Seniors may notice the abnormality in the company network.</value>
+		<value>Ты - Оценщик Производительности 🕵. У тебя есть доступ ко всем ПК , и ты можешь проверять их в нерабочее время. Ты будешь знать, кто здесь на какой стороне. Предупреждение: Говнокодер может заметить неполадки в системе и заложить тебя.</value>
 	</string>
 	<string key="RoleInfoDrunk">
-		<value>You are Suicidal 🍻, you have achieved nothing in your life but your job. When you are planted and fired, you'll probrably jump out of the company's window. The Seniors Assholes may feel guilty and shocked for a while. They will then halt their evil plan on the next day.</value>
+		<value>Ты - Суицидник 🍻, ты ничего не достиг в жизни, но поднялся в работе. Если тебя заложат, ты просто выбросишься из окна офиса. Старший Говнокодер почувствует вину за это и будет некоторое время находиться в шоке. Он оправится только на следующий день.</value>
 	</string>
 	<string key="RoleInfoGuardianAngel">
-		<value>You are the Security Supervisor 👼. You can access other's computer at lunch, to maintain their computer and probrably do some upgrades too. When you are maintaining the computer, no others could do evil things on it.</value>
+		<value>Ты - Сисадмин-безопасник 🔒. На обеде ты можешь открывать шелл на чужих ПК, дабы провести ряд обновленипй и установить дополнительную защиту. Пока шелл запущен - никто другой не может тронуть ПК.</value>
 	</string>
 	<string key="RoleInfoGunner">
-		<value>You are the Most Trusted Employee 🔫 by the board. Say the names and the board will fire them for you. You have two chances.</value>
+		<value>Ты - Самый Доверенный Сотрудник 👨‍💼. Ты можешь сказать любое имя, и босс уволит названного. У тебя два шанса.</value>
 	</string>
 	<string key="RoleInfoHarlot">
-		<value>You disgusting Stalker 💋. You stalk and you know things. You work on notebook and you record your stalking experience with it. Careful: Don't stalk the wrong people, or you are doomed.</value>
+		<value>Ты - Хакер 💻. Ты тихо наблюдаешь и знаешь многое о компании. Ты можешь залезть в любой комп и выкрасть все данные, тем самым парализовав работу владельца ПК. Если ты вскроешь компьютер, владельца которого собирается заложить Говнокодер, последний узнает об этом и накатает на тебя заявление в полицию. В то же время, если Говнокодер захочет заложить тебя, пока ты хакаешь чужой комп, его ждёт провал, ибо его методы не работают для Kali :D.</value>
 	</string>
 	<string key="RoleInfoTraitor">
 		<value>As a Popcorn Lover 🖕, you enjoy drama, and dramatic life attracts you even more. When all the seniors are gone and the world is filled with peace? That's definitely a hell made of boredom. So you decided to lit the world and watch it burns.</value>
