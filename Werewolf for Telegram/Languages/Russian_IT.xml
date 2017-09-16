@@ -238,7 +238,7 @@
 		<value>A secret deal has been found in the drawer of {0}'s room. He was selling our confidential documents to the competitors! What a traitor!?\nThe Department Manager 👳 is fired.</value>
 	</string>
 	<string key="DrunkEaten">
-		<value>We all know {0} is not a good programer, but we still underestimated how bad he really is. Spelling mistakes could be found everywhere in his works, even mispelling FALSE as LEAFS!\nThe Suicidal 🍻 is fired.\n\n\nBang! Securities downstair just discover his body on the ground floor...</value>
+		<value>Все мы знали, что {0} не особо хорош как программист, но мы недооценили его состояние. Ошибки в его коммитах были повсюду, он путал FALSE и LEAFS\nСуицидник 🍻 уволен.\n\n\nБум! Грохот привлекает внимание службы безопасности, которая обнаруживает мертвое тело на первом этаже...</value>
 	</string>
 	<string key="FoolEaten">
 		<value>{0} was caught saving the confidentials of our workers to a private drive, trying to carry the classified information out of the company. Leaking information is a serious crime especially in a IT Company!\n The HR Bitch is fired.</value>
@@ -275,10 +275,10 @@
 		<value>Ты вовремя обновил компьютер {0} и отразил атаку!</value>
 	</string>
 	<string key="GuardNoAttack">
-		<value>Ты на нервах правил последний конфиг в компьютере {0}, но никаких атак не было.</value>
+		<value>Ты превосходно справился с обслуживанием компьютера {0}, но к сожалению никаких угроз не выявил.</value>
 	</string>
 	<string key="GuardEmptyHouse">
-		<value>Ты попробовал открыть шелл в ПК {0}, но безрезультатно.</value>
+		<value>Ты попробовал открыть шелл в ПК {0}, но юзер поставил пароль :D.</value>
 	</string>
 	<string key="GuardSavedYou">
 		<value>Сисадмин только что уберег тебя от атаки Говнокодеров! Будь осторожнее!</value>
