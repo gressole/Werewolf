@@ -72,7 +72,7 @@
 		<value>{0} был {1}.</value>
 	</string>
 	<string key="CountPlayersRemain">
-		<value>Игроков сталось {0}.</value>
+		<value>Игроков осталось {0}.</value>
 	</string>
 	<!-- Я ибал, что это такое и как переводится -->
   <string key="DidntAsk" deprecated="true">
@@ -138,6 +138,7 @@
 	</string>
 	<string key="AskGuard">
 		<value>У кого ты откроешь шелл сегодня?</value>
+		<value>Чей же компьютер нуждается в твоей защите сегодня?</value>
 	</string>
 	<string key="AskEat">
 		<value>Уязвимость снова открыта. Кому же сегодня достанется увольнение?</value>
@@ -213,16 +214,16 @@
 		<value>Time to get off!\n\nYou have {0} seconds to make your accusations and defenses.\n\n</value>
 	</string>
 	<string key="NightTime">
-		<value>It's lunch time! Grab some food and fill your starving stomach! Please enjoy your lunch, as it might be the last lunch you would have in this company 😜\n\nFor those who are busy at lunch: You have {0} seconds to act.</value>
+		<value>Перерыв на обед! Не забываем взять еды и утоляем голод! Приятного аппетита, наслаждайтесь вашим обедом, ведь это может быть последний ваш обед в этой компании 😜\n\nТе, кто работают вместо обеда имеют {0} секунд для осуществления своих планов.</value>
 	</string>
 	<string key="LynchKill">
-		<value>The workers have shown their hatred towards {0}, farewell my friend.\n{1}</value>
+		<value>Тебя решили уволить, {0}, прощай.\n{1}</value>
 	</string>
 	<string key="LynchTie">
-		<value>Looks like you could not make a clear decision. Let's forget about this round.</value>
+		<value>Кажется, вы не смогли принять решение. Забудем об этом, по крайней мере на этот раз.</value>
 	</string>
 	<string key="NoLynchVotes">
-		<value>No one has accused anyone. Nothing happens.</value>
+		<value>Никто никого не обвиняет. Ничего не происходит и все продолжают работать.</value>
 	</string>
 	<string key="DetectiveEaten">
 		<value>{0}'s codes have been revealed. Shit codes everywhere, and he didn't even get the file name right! How could you evaluate others' work if you are doing the wrong things youself?\nThe Performance Evaluator 🕵 is fired.</value>
@@ -246,7 +247,8 @@
 		<value>Copies of {0}'s poor works are distributed in everyone's hand. I hope no one would commit these mistakes every again.\n{1}</value>
 	</string>
 	<string key="HunterKilledCultist">
-		<value>{0} is a JAVA Enthusiast, using JAVA in all his works, causing lags in our servers! Glad that the JAVA Destroyer has him spotted.</value>
+		<!-- Я хз как ты переведень джава жнтузиаста и джава дестроера, так что пока кидаю так-->
+		<value>{0} фанат JAVA, используя JAVA во всей своей работе, он провоцирует лаги на наших серверах! Какое счастье, что JAVA Destroyer его засек.</value>
 	</string>
 	<string key="NoAttack">
 		<value>Everyone is working hard in the company. No potential threat is spotted today.</value>
