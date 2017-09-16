@@ -1441,7 +1441,7 @@
   <string key="SecondsAdded">
     <!-- 0 - Seconds added by /extend command -->
     <!-- 1 - Total seconds remaining -->
-    <value>Время на присоединение расширено на {0} секунд!\n{1} Присоединяйся /join</value>
+    <value>Время на присоединение увеличено на {0} секунд!\n{1} Присоединяйся /join</value>
   </string>
   <string key="SecondsRemoved">
     <!-- 0 - Seconds removed by /extend command -->
@@ -1473,7 +1473,7 @@
     <value>Присоединиться</value>
   </string>
   <string key="NotMember">
-    <value>You can't join this game because you don't seem to be a member of {0}.</value>
+    <value>Кажется, ты не можешь присоединиться к игре, потому что ты не состоишь в группе {0}.</value>
   </string>
   <string key="JoinByButton">
     <value>Пожалуйста, не используй команды для присоединения. Воспользуйся кнопкой.</value>
