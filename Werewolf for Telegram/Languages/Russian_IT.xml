@@ -23,7 +23,7 @@
 		<value>{0} начал игру в режиме ХАОСА с IT-модом!.\nЗаходи и узнай, кого же уволят сегодня :D</value>
 	</string>
 	<string key="NoJoinGameRunning" deprecated="true">
-		<value>О, у нас опоздавшие... Иди с дома поработай, а к следующему проекту позовём, только /nextgame не забудь.</value>
+		<value>О, у нас опоздавшие... Иди из дома поработай, а к следующему проекту позовём, только /nextgame не забудь.</value>
 	</string>
 	<string key="AlreadyJoined" deprecated="true">
 		<value>Ты уже в игре</value>
@@ -36,9 +36,10 @@
 	</string>
 	<string key="NotEnoughPlayers">
 		<value>Мало людей, мало! Отклоняю проект!</value>
+		<value>Маловато работников, маловато! Вы что, хотели организовать фирму с таким составом? Не выйдет.</value>
 	</string>
 	<string key="StartingGameWait">
-		<value>Мы работаем в IT-Компании, и я вынужден сообщить, что у нас начинаются сокращения. Старший Говнокодер втихушку через уязвимость увольняет других, чтобы оставить себе место. Вам нужно узнать, кто это, и вышвырнуть его из компании!</value>
+		<value>Мы работаем в IT-Компании, и я вынужден сообщить, что у нас начинаются сокращения. Старшие Говнокодеры втихушку через уязвимость увольняют других, чтобы оставить себе место. Вам нужно узнать, кто они, и вышвырнуть из компании!</value>
 	</string>
 	<string key="BannedForExploit" deprecated="true">
 		<value>ЧИТОР ДЕТЕКТЕД! {0} уволен за попытку обмануть босса (Имена с началом на / не приветствуются).</value>
@@ -64,29 +65,33 @@
 >>>>>>> Stashed changes
 	</string>
 	<string key="Flee">
-		<value>У {0} голова раскалывается, переработался. Ладно, иди, если станет лучше - из дома поработаешь.</value>
+		<value>У {0} голова раскалывается, уработался. Ладно, иди, если станет лучше - из дома поработаешь.</value>
+		<value>{0} не выдержал общества окружающих и уволился.</value>
 	</string>
 	<string key="PlayerRoleWas">
 		<value>{0} был {1}.</value>
 	</string>
 	<string key="CountPlayersRemain">
-		<value>Осталось {0} игроков.</value>
+		<value>Игроков сталось {0}.</value>
 	</string>
 	<!-- Я ибал, что это такое и как переводится -->
   <string key="DidntAsk" deprecated="true">
-		<value>I gotcha, but I wasn't asking...</value>
+		<value>Я, конечно, увидел твое сообщение, но я ничего у тебя не спрашивал.</value>
+	  	<value>Не отвлекай работников! Не хочу ничего от тебя слышать.</value>
 	</string>
 	<string key="NotPlaying">
 		<value>Ты кто такой? Ты у нас не работаешь!</value>
 	</string>
 	<string key="NoPlayerName">
 		<value>Не помню я, чтобы ты тут работал.</value>
+		<value>Мы тебя не нанимали!</value>
 	</string>
 	<string key="AnswerNonValid" deprecated="true">
 		<value>Что-то как-то всё не так.</value>
 	</string>
 	<string key="WolfVotedKill">
 		<value>{0} решил юзнуть багу во вред {1}.</value>
+		<value>{0} захотел оставить сюрприз для {1}.</value>
 	</string>
 	<string key="PlayerVotedLynch">
 		<value>{0} увидел код {1} и подозревает его в том, что он Старший Говнокодер.</value>
@@ -100,9 +105,11 @@
 	</string>
 	<string key="ChoiceAccepted">
 		<value>Опа!</value>
+		<value>Принято!</value>
 	</string>
 	<string key="BeholderSeer">
 		<value>\n{0} - начальник департамента, он может проверять профили.</value>
+		<value>\n{0} - настоящий начальник департамента! Во время ланча он может подсмотреть профиль любого.</value>
 	</string>
 	<string key="ApprenticeNowSeer">
 		<value>Наконец-то, {0} уволили, и теперь ты, как его заместитель, имеешь полный доступ к профилям. Используй его во благо.</value>
