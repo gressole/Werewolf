@@ -57,7 +57,7 @@
 	</string>
 	<!-- Я ибал, что это такое и как переводится -->
   <string key="DeadFlee">
-		<value>We do not accept your resignation.</value>
+		<value>Поздно увольняться, тебя уже выкинули. Отдыхай.</value>
 	</string>
 	<string key="Flee">
 		<value>У {0} голова раскалывается, переработался. Ладно, иди, если станет лучше - из дома поработаешь.</value>
