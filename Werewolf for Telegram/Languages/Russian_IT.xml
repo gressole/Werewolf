@@ -365,55 +365,55 @@
 	</string>
 	<!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
 	<string key="Villager">
-		<value>Programmer 👱</value>
+		<value>Программист 👱</value>
 	</string>
 	<string key="Drunk">
-		<value>Suicidal 🍻</value>
+		<value>Суицидник 🍻</value>
 	</string>
 	<string key="Harlot">
-		<value>Stalker 💋</value>
+		<value>Хакер 💻</value>
 	</string>
 	<string key="Seer">
-		<value>Department Manager 👳</value>
+		<value>Начальник Департамента 👳</value>
 	</string>
 	<string key="Traitor">
-		<value>Popcorn Lover 🖕</value>
+		<value>Любитель Драмы 🖕</value>
 	</string>
 	<string key="GuardianAngel">
-		<value>Security Supervisor 👼</value>
+		<value>Сисадмин-безопасник 🔒</value>
 	</string>
 	<string key="Detective">
-		<value>Performance Evaluator 🕵</value>
+		<value>Оценщик Производительности 🕵</value>
 	</string>
 	<string key="Wolf">
-		<value>Senior Asshole 🐺</value>
+		<value>Старший Говнокодер 🐺</value>
 	</string>
 	<string key="Cursed">
-		<value>Bootlicker 😾</value>
+		<value>Подхалим 😾</value>
 	</string>
 	<string key="Gunner">
-		<value>Most Trusted Employee 🔫</value>
+		<value>Самый Доверенный Сотрудник 🔫</value>
 	</string>
 	<string key="Tanner">
-		<value>BOSS 👺</value>
+		<value>БОCС 👺</value>
 	</string>
 	<string key="Fool">
-		<value>Stupid HR Bitch 🃏</value>
+		<value>Дебил из HR 🃏</value>
 	</string>
 	<string key="WildChild">
-		<value>Intern 👶</value>
+		<value>Стажёр 👶</value>
 	</string>
 	<string key="Beholder">
-		<value>Secretary 👁</value>
+		<value>Секретарь 👁</value>
 	</string>
 	<string key="ApprenticeSeer">
-		<value>Management Trainee 🙇</value>
+		<value>Замглавы Департамента 🙇</value>
 	</string>
 	<string key="Cultist">
-		<value>JAVA Enthusiast 👤</value>
+		<value>JAVA-Кодер 👤</value>
 	</string>
 	<string key="CultistHunter">
-		<value>JAVA Destroyer 💂</value>
+		<value>Хейтер JAVA 💂</value>
 	</string>
 	<!-- These are for the player list -->
 	<string key="RanAway">
@@ -430,7 +430,7 @@
 	</string>
 	<!-- New strings 4 MAY 2016-->
 	<string key="Mason">
-		<value>Pizza Brother 👷</value>
+		<value>Доставщик Пиццы 👷</value>
 	</string>
 	<string key="RoleInfoMason">
 		<value>You are one of the Pizza Brothers 👷. You love pizza and you always go to Dominic's for lunch, with your Pizza Brothers!</value>
@@ -461,7 +461,7 @@
 	</string>
 	<!-- new string May 13 2016-->
 	<string key="Was">
-		<value>was</value>
+		<value>был</value>
 	</string>
 	<string key="GenericDeathNoReveal">
 		<value>{0} is fired. Orders from the board.</value>
@@ -647,16 +647,16 @@
 		<value>Who should he work with?</value>
 	</string>
 	<string key="Hunter">
-		<value>Blackmail Master 🎯</value>
+		<value>Шантажист 🎯</value>
 	</string>
 	<string key="Cupid">
-		<value>Project Manger 🏹</value>
+		<value>Проект-менеджер 🏹</value>
 	</string>
 	<string key="SerialKiller">
-		<value>Virus Spreader 🔪</value>
+		<value>Вирусописатель 🔪</value>
 	</string>
 	<string key="Doppelgänger">
-		<value>Freelancer 🎭</value>
+		<value>Фрилансер 🎭</value>
 	</string>
 	<string key="NewWCRoleModel">
 		<value>You have been upgraded as an intership, and {0} is your dedicated tutor.</value>
@@ -1031,13 +1031,13 @@
 		<value>Silver Tongue 🎖</value>
 	</string>
 	<string key="Prince">
-		<value>Son of the BOSS 👑</value>
+		<value>Сын Босса 👑</value>
 	</string>
 	<string key="Sorcerer">
-		<value>Gossiper 🔮</value>
+		<value>Сплетник 🔮</value>
 	</string>
 	<string key="ClumsyGuy">
-		<value>Social Idiots 🤕</value>
+		<value>Инвалид 🤕</value>
 	</string>
 	<string key="Blacksmith">
 		<value>Socialite ⚒</value>
