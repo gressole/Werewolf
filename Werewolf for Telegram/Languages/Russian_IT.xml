@@ -238,8 +238,7 @@
 		<value>A secret deal has been found in the drawer of {0}'s room. He was selling our confidential documents to the competitors! What a traitor!?\nThe Department Manager 👳 is fired.</value>
 	</string>
 	<string key="DrunkEaten">
-		<!-- и как правильно переводятся разговоры про ошибки я тоже не знаю. опечатки? синтаксические ошибки? орфография, раз неправильное написание false?-->
-		<value>Все мы знали, что {0} не особо хорош как программист, но мы недооценили его состояние. Spelling mistakes could be found everywhere in his works, even mispelling FALSE as LEAFS!\nThe Suicidal 🍻 уволен.\n\n\nБум! Грохот привлекает внимание службы безопасности, которая обнаруживает мертвое тело на первом этаже...</value>
+		<value>We all know {0} is not a good programer, but we still underestimated how bad he really is. Spelling mistakes could be found everywhere in his works, even mispelling FALSE as LEAFS!\nThe Suicidal 🍻 is fired.\n\n\nBang! Securities downstair just discover his body on the ground floor...</value>
 	</string>
 	<string key="FoolEaten">
 		<value>{0} was caught saving the confidentials of our workers to a private drive, trying to carry the classified information out of the company. Leaking information is a serious crime especially in a IT Company!\n The HR Bitch is fired.</value>
@@ -248,56 +247,56 @@
 		<value>Copies of {0}'s poor works are distributed in everyone's hand. I hope no one would commit these mistakes every again.\n{1}</value>
 	</string>
 	<string key="HunterKilledCultist">
-		<!-- Я хз как ты переведешь джава энтузиаста и джава дестроера, так что пока кидаю так-->
-		<value>{0} фанат JAVA, используя JAVA во всей своей работе, провоцирует лаги на наших серверах! Какое счастье, что JAVA Destroyer его засек.</value>
+		<!-- Топово, лол. Энтузиаст - JAVA-кодер, Хантер - оптимизатор. Наш юмор, жаба дико жрёт память засчёт того, что чуть ли не запускает ПК в ПК. Вообще, надо бы так:-->
+		<value>{0} пишет на JAVA, и этим провоцирует лаги на наших серверах! Какое счастье, что оптимизатор его засек.</value>
 	</string>
 	<string key="NoAttack">
-		<value>Все активно трудились сегодня. Потенциальной угрозы не обнаружено.</value>
+		<value>Все усердно работали. Происшествий не было.</value>
 	</string>
 	<string key="CursedBitten">
 		<value>You tired hard confronting the Seniors and securing your place in the company. You are now promoted as a Senior!</value>
 	</string>
 	<string key="WolfTeam">
-		<value>These are your Senior friend(s): {0}</value>
+		<value>Это - твои друзья-говнокодеры: {0}</value>
 	</string>
 	<string key="CursedBittenToWolves">
-		<value>Ты впечатлен речью {0} и решаешь рассказать ему свой план!</value>
+		<value>You do enjoy {0}'s speech, and decided to include him in your plan!</value>
 	</string>
 	<string key="WolvesEatYou" isgif="true">
-		<value>You did work hard, but you are planted by the Seniors Assholes! Now the board sees you as a dobe and decided to fire you...</value>
+		<value>Ты хорошо работал, но говнокодеры заложили тебя! Босс косо на тебя смотрит и решает уволить...</value>
 	</string>
 	<string key="WolvesEatDrunk">
-		<value>Who would ever thought, {0} could commit suicide just becuase he lose a job? Maybe you should think twice before excuting your evil plan.</value>
+		<value>Кто бы мог подумать, что {0} совершит суицид из-за потери работы? Все в шоке, может, стоит лучше обдумывать свой план?</value>
 	</string>
 	<string key="GuardWolf">
-		<value>You accidentally supervised the Seniors and they planted you instead. Being nice does not secure a happy ending...</value>
+		<value>Из-за сильной атаки говнокодеров тебе пришлость подставить под удар свою систему. То, что ты помогаешь людям, не уберегает тебя от плохой концовки...</value>
 	</string>
 	<string key="GuardSaved">
-		<value>Ты успешно спас {0} от всех потенциальных угроз!</value>
+		<value>Ты вовремя обновил компьютер {0} и отразил атаку!</value>
 	</string>
 	<string key="GuardNoAttack">
-		<value>Ты превосходно справился с обслуживанием компьютера {0}, но к сожалению никаких угроз не выявил.</value>
+		<value>Ты на нервах правил последний конфиг в компьютере {0}, но никаких атак не было.</value>
 	</string>
 	<string key="GuardEmptyHouse">
-		<value>Ты пытался получить доступ к компьютеру {0}, но умный юзер поставил пароль!</value>
+		<value>Ты попробовал открыть шелл в ПК {0}, но безрезультатно.</value>
 	</string>
 	<string key="GuardSavedYou">
-		<value>The Security Supervisor has located some threats from the Seniors! Be careful!</value>
+		<value>Сисадмин только что уберег тебя от атаки Говнокодеров! Будь осторожнее!</value>
 	</string>
 	<string key="HarlotEaten">
-		<value>Disgusting! {0}'s notebook has stored many personal information of others.\nThe Stalker 💋 is fired.</value>
+		<value>К вам пришло письмо из полиции. Оно информировало вас о успешных атаках на вашу систему и о том, что атакующим был {0}\nХакер был отправлен в места не столь отдалённые.</value>
 	</string>
 	<string key="HarlotNotHome">
-		<value>You could not connect to {0}'s computer...</value>
+		<value>Ты не смог воспользоваться компьютером {0}...</value>
 	</string>
 	<string key="HarlotFuckWolf">
-		<value>Told you not to stalk the wrong person, for example {0}. YOU ARE DOOMED!</value>
+		<value>Не стоит взламывать некоторых, например {0}. Ты был заключён и отправлен в СИЗО!</value>
 	</string>
 	<string key="HarlotFuckedWolfPublic">
-		<value>{0} stalked the Seniors at lunch. What a disgusting move!\nThe Stalker 💋 is fired.</value>
+		<value>{0} вскрыл ПК Говнокодера за обедом. Что за наглость!\nХакера повязали на месте.</value>
 	</string>
 	<string key="HarlotFuckedVictimPublic">
-		<value>{0} sneaked in {1} room, trying to copy {1} personal files. Luckily, {0}'s weird action was caught by our Seniors.\nThe Stalker 💋 is fired.</value>
+		<value>{0} попытался получить доступ к файлам {1}. К счастью, странные действия были пресечены Системой.\nХакер уже сидит.</value>
 	</string>
 	<string key="HarlotVisitNonWolf">
 		<value>You want to know others'secret, but you don't want to exchange with yours. You stalked behind {0} and listened carefully from his mouth. You even record it with your phone...</value>
@@ -308,10 +307,10 @@
 		<value>When you were back from lunch, you noticed some documents on your desk were moved...</value>
 	</string>
 	<string key="DetectiveCaught">
-		<value>You noticed weird connections comming from {0}'s computer. That must be the Performance Evaluator!</value>
+		<value>Ты увидел странное подключение. Оно жло от компьютера {0}. Он, должно быть, Оценщик Производительности!</value>
 	</string>
 	<string key="DetectiveSnoop">
-		<value>After browsing the computer of {0}, you guess he is probably the {1}.</value>
+		<value>После небольшого осмотра компьютера {0}, ты понял, что скорее всего это {1}.</value>
 	</string>
 	<string key="HarlotShot">
 		<value>{1} was stalking {0} and {0} do not like it. So he reported {1}'s disgusting action to the board and have him fired.\nThe Stalker 💋 is fired.</value>
@@ -320,10 +319,10 @@
 		<value>{0} has been hating {1} since they met. Today, {0} was annoyed by {1} again, and he wanted to put a stop on that. So {0} make the board have him fired.\n{2}</value>
 	</string>
 	<string key="WolfWins" isgif="true">
-		<value>The Senior has fired all the others but himself! ALL HAIL THE ASSHOLES!</value>
+		<value>Говнокодер заложил ВСЕХ! ВОССЛАВЛЯЙТЕ ЕГО!</value>
 	</string>
 	<string key="WolvesWin" isgif="true">
-		<value>The Seniors have fired all the others but themselves! ALL HAIL THE ASSHOLES!</value>
+		<value>Говнокодеры подставили ВСЕХ! СЛАВА ГОВНОКОДЕРАМ!</value>
 	</string>
 	<string key="VillageWins" isgif="true">
 		<value>The Workers have all the Seniors fired and guard the company from all evil beings! They have made the company great again!</value>
@@ -335,10 +334,10 @@
 		<value>Remaining Workers, title, and team:</value>
 	</string>
 	<string key="CultistVotedConvert">
-		<value>{0} wants to share the joy of JAVA with {1}.</value>
+		<value>{0} хочет поделиться радостью писания на JAVA с {1}.</value>
 	</string>
 	<string key="CultConvertCultHunter">
-		<value>{0} was promoting JAVA to {1}, which is a JAVA hater! He was reported and fired!</value>
+		<value>{0} попытался втюхать JAVA {1}, но он оказался Специалистом по Оптимизации! Он был уволен за неуважение к JAVA! HEIL JAVA!</value>
 	</string>
 	<string key="CultHunterKilledCultVisit">
 		<value>{0} wanted you to use JAVA, ridiculous! You reported him for justice! You senses there are {1} more people using JAVA.</value>
@@ -423,7 +422,7 @@
 		<value>JAVA-Кодер 👤</value>
 	</string>
 	<string key="CultistHunter">
-		<value>Хейтер JAVA 💂</value>
+		<value>Специалист по оптимизации 💂</value>
 	</string>
 	<!-- These are for the player list -->
 	<string key="RanAway">
