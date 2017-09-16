@@ -72,7 +72,7 @@
 		<value>{0} был {1}.</value>
 	</string>
 	<string key="CountPlayersRemain">
-		<value>Игроков сталось {0}.</value>
+		<value>Игроков осталось {0}.</value>
 	</string>
 	<!-- Я ибал, что это такое и как переводится -->
   <string key="DidntAsk" deprecated="true">
